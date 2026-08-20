@@ -1,0 +1,3 @@
+User-agent: *
+AlloW:/
+Sitemap: https://www.sherkin.co.th/sitemap.xml
